@@ -6,4 +6,4 @@ services:
       dockerfile: Dockerfile
     image: verse:1.0
     ports:
-      - "5000:5000"
+      - "5001:5000"
